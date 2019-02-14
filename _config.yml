@@ -106,21 +106,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Neil Thompson"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "stuff."
+  location         : "The World"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:neil.thompson@noaa.gov
+      #url: mailto:neil.thompson@noaa.gov
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-       url: "https://twitter.com/FishDrNeil"
+      #url: "https://twitter.com/FishDrNeil"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/neilfthompson"
+      #url: "https://github.com/neilfthompson"
 
 # Site Footer
 footer:
