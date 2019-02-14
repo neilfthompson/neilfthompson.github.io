@@ -1,7 +1,7 @@
 # main links
 main:
    - title: "Home"
-     url: /
+     url: https://neilfthompson.github.io/
    - title: "Research"
      url: /research/
    - title: "Publications"

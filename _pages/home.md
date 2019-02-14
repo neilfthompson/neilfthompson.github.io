@@ -1,7 +1,7 @@
 ---
 title: "Home"
 layout: splash
-permalink: https://neilfthompson.github.io/
+permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/spring_king.png
