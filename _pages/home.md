@@ -1,14 +1,11 @@
 ---
+title: "Home"
 layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/spring_king.png
-  actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
-excerpt: >
-  Neil Thompson, Ph.D.
+  excerpt:  "Neil Thompson, Ph.D."
 
 feature_row:
   - image_path: /assets/images/mykiss_juvenile.jpg
@@ -27,7 +24,7 @@ feature_row:
     btn_label: "Learn more"
   - image_path: /assets/images/NT_headshot.jpg
     alt: ""
-    title: "Get a hold of Neil"
+    title: "Contact Neil"
     excerpt: ""
     url: "/contact/"
     btn_class: "btn--primary"
