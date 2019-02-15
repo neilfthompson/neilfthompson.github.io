@@ -3,7 +3,6 @@ title: "Home"
 layout: splash
 permalink: /
 header:
-  overlay_color: "#5e616c"
   overlay_image: /assets/images/spring_king.png
   
 
