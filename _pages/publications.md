@@ -2,7 +2,6 @@
 title: "Publications"
 permalink: /publications/
 classes: wide
-author_profile: false
 ---
 __Thompson NF__, Clemens BJ, Ketchum LL, Simpson PC, Reagan, RE, Blouin MS. 2018. A 	mechanism to explain how domestication occurs in hatchery-reared Hood River 	steelhead. _Aquaculture_ [doi.org/10.1016/j.aquaculture.2018.03.007](https://www.sciencedirect.com/science/article/abs/pii/S0044848617316125?via%3Dihub)
 
