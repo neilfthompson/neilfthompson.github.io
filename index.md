@@ -5,11 +5,11 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/spring_king.png
-  title: "molecular ecology | eco-evolutionary dynamics | conservation genetics"
+  excerpt: "using genetics and eco-evolutionary studies to inform conservation and management "
 intro:
-  - excerpt: 'placeholder here'
+  - excerpt: 'molecular ecology | eco-evolutionary dynamics | conservation genetics'
 feature_row:
-  - image_path: /assets/images/mykiss_juvenile.jpg
+  - image_path: /assets/images/salt_water_tank_mykiss.jpg
     alt: ""
     title: "eco to evo"
     excerpt: "Studying adaptation to captivity and traits under selection"
