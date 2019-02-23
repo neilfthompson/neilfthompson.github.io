@@ -2,6 +2,8 @@
 layout: splash
 permalink: /
 header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
   overlay_image: /assets/images/spring_king.png
 title: "molecular ecology | eco-evolutionary dynamics | conservation genetics"
 intro:
@@ -29,5 +31,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Contact Neil"
 ---
+
+{% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
