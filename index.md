@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/spring_king.png
   excerpt: "using genetics and eco-evolutionary studies to inform conservation and management "
 intro:
-  - excerpt: 'molecular ecology | eco-evolutionary dynamics | conservation genetics'
+  - excerpt: ##'molecular ecology | eco-evolutionary dynamics | conservation genetics'
 feature_row:
   - image_path: /assets/images/salt_water_tank_mykiss.jpg
     alt: ""
