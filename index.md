@@ -5,9 +5,9 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/spring_king.png
-  excerpt: "using genetics and eco-evolutionary studies to inform conservation and management "
+  excerpt: "[Delta Science Fellow](https://caseagrant.ucsd.edu/news/eight-early-career-scientists-awarded-2017-delta-science-fellowships)using genetics and eco-evolutionary studies to inform conservation and management "
 intro:
-  - excerpt: ##'molecular ecology | eco-evolutionary dynamics | conservation genetics'
+  - excerpt: '##molecular ecology | ##eco-evolutionary dynamics | ##conservation genetics'
 feature_row:
   - image_path: /assets/images/salt_water_tank_mykiss.jpg
     alt: ""
