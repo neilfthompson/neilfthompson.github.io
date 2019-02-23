@@ -5,7 +5,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/spring_king.png
-  excerpt: "molecular ecology | eco-evolutionary dynamics | conservation genetics"
+  title: "molecular ecology | eco-evolutionary dynamics | conservation genetics"
 intro:
   - excerpt: 'placeholder here'
 feature_row:
