@@ -1,6 +1,7 @@
 ---
 title: Contact
 permalink: /contact/
+author profile: true
 ---
 
-Placeholder for contact page
+Use links on the left side of the page to contact Neil.
